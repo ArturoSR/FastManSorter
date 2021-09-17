@@ -14,13 +14,12 @@ public class FastManGUI {
     private static JFrame       gui;
     /** FastManGUI title */
     private static final String TITLE = "Fast Manual Sorter";
-    /** CardLayout for GUI */
-    // private final CardLayout cardLayout;
+
     /** Panel that will contain all of the application views */
     private static JPanel       mainPanel;
-
+    /** Card Layout for the JFrame */
     private final CardLayout    layout;
-
+    /** Used for displaying images */
     private static ImageIcon    displayImage;
 
     private static JLabel       label;
