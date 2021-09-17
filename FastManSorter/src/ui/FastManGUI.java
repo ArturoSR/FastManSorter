@@ -65,9 +65,7 @@ public class FastManGUI {
         final File[] listOfFiles = folder.listFiles();
 
         for ( final File file : listOfFiles ) {
-            // if ( file.isFile() ) {
             System.out.println( file.getName() );
-            // }
         }
 
         // imageDisplayer( stringDir );
