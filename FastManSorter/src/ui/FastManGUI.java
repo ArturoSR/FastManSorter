@@ -72,6 +72,10 @@ public class FastManGUI {
 
     }
 
+    /**
+     *
+     * @param directoryURL
+     */
     public static void imageDisplayer ( final String directoryURL ) {
         final String shouldURL = "C:\\Users\\vulpi\\NCSU\\CSC326\\FastManSorter\\src\\ui\\koan dynasty.jpg";
         System.out.println( shouldURL );
