@@ -26,6 +26,8 @@ public class FastManGUI {
 
     /**
      * Constructs the FastManGUI
+     *
+     *
      */
     public FastManGUI ( final String currentDirectory ) {
         gui = new JFrame();
